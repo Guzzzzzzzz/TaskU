@@ -1,0 +1,34 @@
+# ===== Compiled Output =====
+bin/
+build/
+dist/
+*.class
+*.jar
+
+# ===== Database (berisi data sensitif pengguna) =====
+*.db
+*.sqlite
+*.sqlite3
+
+# ===== IDE Files =====
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.swp
+*~
+nbproject/
+
+# ===== OS Files =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Logs & Temp =====
+*.log
+*.tmp
+
+# ===== Gemini/AI Tool Data =====
+.gemini/
