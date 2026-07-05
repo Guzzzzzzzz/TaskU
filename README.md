@@ -1,4 +1,6 @@
 # TaskU — Initial Release (v1.0.0)
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/ca0e0614-d6fa-4c30-b82a-d83f8c2f31b7" />
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/4ee30d82-d18f-496d-83c9-7b913f7c808d" />
 
 TaskU adalah aplikasi desktop To-Do List modern berbasis Java yang dirancang untuk membantu mahasiswa mengelola tugas, deadline, dan tugas kelompok secara produktif dan aman.
 
