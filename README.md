@@ -30,3 +30,12 @@ Jika Anda ingin menjalankan aplikasi dari kode sumber:
 1. Pastikan Anda memiliki JDK 17 atau yang lebih baru terinstal.
 2. Jalankan skrip `run.bat` untuk mengompilasi dan membuka aplikasi secara langsung.
 3. Gunakan skrip `build-exe.bat` jika ingin memaketkan ulang aplikasi menjadi berkas desktop `.exe`.
+
+
+## Credits & Acknowledgements
+
+TaskU merupakan proyek eksperimen yang dikembangkan menggunakan **Antigravity IDE** dengan pendekatan *AI-assisted end-to-end development*.
+
+Sebagian besar proses pengembangan, mulai dari perancangan arsitektur, implementasi fitur, perancangan antarmuka pengguna, hingga proses refactoring dan audit keamanan, dilakukan dengan bantuan AI melalui Antigravity IDE.
+
+Proyek ini dipublikasikan sebagai eksperimen untuk mengeksplorasi kemampuan AI dalam membangun aplikasi desktop Java secara end-to-end.
