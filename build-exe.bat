@@ -100,7 +100,7 @@ jpackage ^
   --main-class Main ^
   --dest dist ^
   --app-version 1.0.0 ^
-  --icon app-icon.ico ^
+  --icon assets\app-icon.ico ^
   --vendor "TaskU Team" ^
   --description "TaskU - Aplikasi Manajemen Tugas Mahasiswa" ^
   --java-options "--enable-preview" ^
